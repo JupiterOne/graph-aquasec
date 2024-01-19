@@ -1,6 +1,6 @@
 {
   "name": "@jupiterone/graph-aquasec",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A graph conversion tool for https://aquasec.com/",
   "repository": {
     "type": "git",
