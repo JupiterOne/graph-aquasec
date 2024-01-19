@@ -8,6 +8,12 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [1.1.0] - 2024-01-19
+
+### Added
+
+- Added question to return users that sendScanResults or sendNewRisks
+
 ## [1.0.1] - 2022-01-31
 
 ### Fixed
